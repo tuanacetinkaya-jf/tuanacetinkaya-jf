@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tuana
 - 🦌 I’m studying Computer Engineering in Hacettepe 
-- ✏️ JotForm Front-End Support Engineering (Part-Time)
+- ✏️ JotForm Content Hackers: Front-End Support Engineer (Part-Time)
 - 📫 When to Reach me: Monday-Tuesday-Wednesday and Saturday
 
 - 👾 Checkout my personal GitHub [here](https://github.com/tuanacetinkaya)
